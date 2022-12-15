@@ -4,7 +4,7 @@
 - 🎒 I'm almost to college.
 - ⚡ Fun fact: I'm a speedsolver, my record is 49.52 seconds.
 
-<div align="center" style="display:inline_block">
+<div align="center">
   <a href="https://github.com/ycarotrindade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ycarotrindade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycarotrindade&layout=compact&langs_count=7&theme=radical"/>
