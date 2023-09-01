@@ -1,8 +1,8 @@
 ### Hello, I'm Ycaro, but my friends call me Ycro, this guy in my profile picture it's not me ok?😜
 
 - 🌱 I'm studying Python and Javascript
-- 🎒 I'm almost to college.
-- ⚡ Fun fact: I'm a speedsolver, my record is 49.52 seconds.
+- 🎒 I'm in computer engineering college.
+- ⚡ Fun fact: I'm a speedsolver, my record is 18.32 seconds.
 
 <main>
 <div align="center">
@@ -22,7 +22,6 @@
   ##
   
 <div> 
-  <a href="https://www.instagram.com/marcosycro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ycarotrindade.pg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
   
