@@ -9,6 +9,19 @@
   <a href="https://github.com/ycarotrindade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ycarotrindade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycarotrindade&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
+
+
+<div align="center">
+  <h1>Top Repositories</h1>
+  <a href="https://github.com/ycarotrindade/PyStock.git">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=PyStock&theme=radical">
+  </a>
+  <a href="https://github.com/ycarotrindade/Auto_Sales.git">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=Auto_Sales&theme=radical">
+  </a>
+  
 </div>
 
 <div style="display: inline_block"><br>
