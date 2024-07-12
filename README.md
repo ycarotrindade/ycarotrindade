@@ -10,14 +10,14 @@
 
 <div align="center">
   <h1>Top Repositories</h1>
+  <a href="https://github.com/ycarotrindade/termo-bot.git">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=termo-bot&theme=radical">
+  </a>
   <a href="https://github.com/ycarotrindade/PyStock.git">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=PyStock&theme=radical">
   </a>
   <a href="https://github.com/ycarotrindade/Auto_Sales.git">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=Auto_Sales&theme=radical">
-  </a>
-  <a href="https://github.com/ycarotrindade/termo-bot.git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=termo-bot&theme=radical">
   </a>
 </div>
 
