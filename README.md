@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=PyStock&theme=radical">
   </a>
   <a href="https://github.com/ycarotrindade/Auto_Sales.git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=Auto_Sales&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=django-schoolsystem&theme=radical">
   </a>
 </div>
 
