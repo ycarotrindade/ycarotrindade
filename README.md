@@ -53,5 +53,9 @@ Hello, I'm Ycro a Computer Engineering Student and a Machine and Deep Learning D
 <img src="https://github-readme-stats.vercel.app/api?username=ycarotrindade&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycarotrindade&layout=compact&theme=radical">
 <br>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ycarotrindade/ycarotrindade/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ycarotrindade/ycarotrindade/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
