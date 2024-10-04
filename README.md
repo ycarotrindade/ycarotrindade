@@ -49,7 +49,9 @@ Hello, I'm Ycro a Computer Engineering Student and a Machine and Deep Learning D
 </p>
 <hr>
 <h2 align="center">📊 Stats</h2>
-<div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ycarotrindade&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycarotrindade&layout=compact&theme=radical">
+<br>
+
 </div>
