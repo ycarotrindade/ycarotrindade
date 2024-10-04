@@ -47,3 +47,9 @@ Hello, I'm Ycro a Computer Engineering Student and a Machine and Deep Learning D
 <img height="32" width="32" src="https://cdn.simpleicons.org/hackerrank" title="Hackerrank" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/rich" title="Rich" />
 </p>
+<hr>
+<h2 align="center">📊 Stats</h2>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=ycarotrindade&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycarotrindade&layout=compact&theme=radical">
+</div>
