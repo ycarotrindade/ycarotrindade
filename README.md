@@ -3,7 +3,15 @@
 </h1>
 
 <h5 align="center">
-  <code><a><img width="22" src="images/linkedin.svg"></a></code>
+  <code>
+  <a href="www.linkedin.com/in/ycaro" title="Linkedin Profile"><img width="22" src="images/linkedin.svg">Linkedin</a>
+  </code>
+  <code>
+  <a href="https://www.kaggle.com/marcosycaro" title="Kaggle Profile"><img width="22" src="images/Kaggle Icon.svg">Kaggle</a>
+  </code>
+  <code>
+  <a href="https://profiles.datawars.io/ycarobanes" title="Datawars Profile" ><img width="22" src="images/datawars_logo.jpeg"></a>
+  </code>
 </h5>
 
 <main>
