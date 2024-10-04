@@ -3,13 +3,24 @@
 </h1>
 
 <h5 align="center">
-  <code>
-  <a href="www.linkedin.com/in/ycaro" title="Linkedin Profile"><img width="22" src="images/linkedin.svg">Linkedin</a>
-  </code>
-  <code>
-  <a href="https://www.kaggle.com/marcosycaro" title="Kaggle Profile"><img width="22" src="images/Kaggle Icon.svg">Kaggle</a>
-  </code>
-  <code>
-  <a href="https://profiles.datawars.io/ycarobanes" title="Datawars Profile" ><img width="22" src="images/datawars_logo.jpeg"></a>
-  </code>
+  <code><a href="www.linkedin.com/in/ycaro" title="Linkedin Profile"><img width="22" src="images/linkedin.svg">Linkedin</a></code>
+  <code><a href="https://www.kaggle.com/marcosycaro" title="Kaggle Profile"><img width="22" src="images/Kaggle Icon.svg">Kaggle</a></code>
+  <code><a href="https://profiles.datawars.io/ycarobanes" title="Datawars Profile" ><img width="22" src="images/datawars_logo.jpeg">Datawars</a></code>
 </h5>
+<br>
+<p align="center">
+Hello, I'm Ycro a Computer Engineering Student and a Machine and Deep Learning Developer from Brazil
+<br>
+<br>
+🎓 I'm currently studying Computer Engineering on Uninter
+<br>
+🤖 I Love Machine Learning and Deep Learning
+<br>
+💻 I'm currently studying Machine Learning with Sklearn by myself
+<br>
+⏲️ I like practicing speedcubing and fast typing.
+<br>
+💬 You can view more information about me on my <a href="https://bento.me/ycaro" title="Bento website">Bento</a>
+<br>
+📫 How to reach me: <a href="mailto: ycarobanes@gmail.com">ycarobanes.pg@gmail.com</a>
+</p>
