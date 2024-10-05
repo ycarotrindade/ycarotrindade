@@ -59,3 +59,20 @@ Hello, I'm Ycro a Computer Engineering Student and a Machine and Deep Learning D
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
+<hr>
+<h2 align="center">📁 Repositories</h2>
+<br>
+<div align="center">
+   <a align="left" href="https://github.com/ycarotrindade/django-schoolsystem.git" title="django_school_system"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=django-schoolsystem&theme=radical&border_radius=10"></a>
+     <a align="right" href="https://github.com/ycarotrindade/RockOrMine.git" title="RockOrMine"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=RockOrMine&theme=radical&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+<div align="center">
+       <a align="left" href="https://github.com/ycarotrindade/Advertising_PolyModel.git" title="Advertising_PolyModel"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=Advertising_PolyModel&theme=radical&border_radius=10"></a>
+<a align="right" href="https://github.com/ycarotrindade/Auto_Sales.git" title="Auto_Sales"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=Auto_Sales&theme=radical&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+<div align="center">
+   <a align="left" href="https://github.com/ycarotrindade/termo-bot.git" title="termo-bot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=termo-bot&theme=radical&border_radius=10"></a>
+   <a align="right" href="https://github.com/ycarotrindade/PyStock.git" title="PyStock"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ycarotrindade&repo=PyStock&theme=radical&border_radius=10"></a>
+</div>
