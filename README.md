@@ -29,6 +29,7 @@ Hello, I'm Ycro a Computer Engineering Student and a Machine and Deep Learning D
 <br>
 <p align="center">
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" title="Python" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/go" title="Python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch" title="Pytorch" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" title="Sklearn" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter" title="Jupyter" />
