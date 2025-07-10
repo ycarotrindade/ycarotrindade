@@ -32,7 +32,7 @@ Hello, I'm Ycro a Computer Engineering Student and a Machine and Deep Learning D
 <img height="32" width="32" src="https://cdn.simpleicons.org/go" title="Python" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch" title="Pytorch" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn" title="Sklearn" />
-<img height="32" width="32" src="https://api.iconify.design/akar-icons:vscode-fill.svg" title="VSCode" />
+<img height="32" width="32" src="https://api.iconify.design/akar-icons:vscode-fill.svg?color=%230000FF" title="VSCode" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter" title="Jupyter" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/googlecolab" title="Colab" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django" title="Django" />
@@ -41,6 +41,7 @@ Hello, I'm Ycro a Computer Engineering Student and a Machine and Deep Learning D
 <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" title="Sqlite3" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/numpy" title="Numpy" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/pandas" title="Pandas" />
+<img height="32" width="32" src="https://api.iconify.design/devicon:matplotlib.svg?color=%23888888" title="MatplotLib" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/streamlit" title="Streamlit" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker" title="Docker" />
 <img height="32" width="32" src="https://api.iconify.design/catppuccin:makefile.svg" title="Makefile" />
